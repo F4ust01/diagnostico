@@ -33,7 +33,6 @@ Este es un ejercicio básico para practicar el uso de EJS en un proyecto de Node
    - Ejecuta el servidor para ver la lista de posts en la vista.
 
 7. **Hacer el segundo commit**
-
    - Realiza un segundo commit con un mensaje descriptivo.
 
 ## Último paso: Crear repositorio en GitHub
@@ -55,7 +54,6 @@ Este es un ejercicio básico para practicar el uso de EJS en un proyecto de Node
 4. **Compartir el enlace**
 
    - Una vez que el código esté en el repositorio de GitHub, los estudiantes deben compartir el enlace del repositorio con el instructor para que pueda revisar su trabajo.
-
 
 ## Recursos adicionales
 
